@@ -18,7 +18,8 @@ These two datasets were merged to produce a detailed description of *almost* eve
 ### Quick Insights:
 - There have been 5280 reported vehicle thefts in NZ from July 25th to January 22nd.
 - January 2023 saw an 11.32% increase in theft compared to December 2022. There have been 1072 thefts alone in January 2023 (53%).
-    - Note: this may need further investigation - since the dataset may be updated if older vehicles are recovered.
 - Cars built in 2010 or older account for 71.25% of thefts.
 - Stationwagon, Saloon, and Trailer make up the top 3 most stolen vehicle types.
 - Auckland has seen at least 872 thefts in the past 6 months.
+
+** Note: Stolen vehicles which have been recovered are removed from the database; Hence, comparing month to month is not of much use. **
